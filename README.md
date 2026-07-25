@@ -124,10 +124,7 @@ Created an interactive dashboard including:
 
 ## 📷 Dashboard Preview
 
-```markdown
-<img width="974" height="547" alt="Fifa World Cup 2026" src="https://github.com/user-attachments/assets/0267951f-1ea9-42fe-a0b1-c1213ea38a38" />
-
-```
+![FIFA World Cup 2026 Dashboard](Dashboard.png)
 
 ---
 
