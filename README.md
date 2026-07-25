@@ -157,6 +157,5 @@ FIFA-World-Cup-2026-Performance-Analysis
 - Business Intelligence
 
 ---
-**Krish Yadav**
 
 If you found this project helpful, feel free to ⭐ this repository.
